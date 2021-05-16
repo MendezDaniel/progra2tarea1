@@ -1,0 +1,29 @@
+body{
+ background-image: url(../media/dibujo.jpg);
+ background-attachment: fixed;
+ background-size: 100%;
+ background-repeat: no-repeat;
+
+ background-color: rgba(56, 56, 56);
+}
+
+div{
+
+}
+
+#parrafoUno{
+width: 800px;
+background-color: rgb(255, 255, 255, 0.7);
+color: rgb(0, 0, 0, 1);
+margin-left: 505px;
+padding: 50px;
+border-radius: 8px;
+
+}
+
+#imagenUno{
+width: 400px;
+margin-top: 80px;
+margin-left: 670px;
+
+}
